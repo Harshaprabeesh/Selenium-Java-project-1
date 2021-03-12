@@ -1,0 +1,106 @@
+{
+  "Data": {
+    "firstName": "Jayson",
+    "firstName": "Tang",
+
+
+    "bankOrFinancialInst": false,
+    "legalentityName1": "Apple",
+    "legalEntityName2": "Apple Computers",
+    "sameAsLegalName": false,
+    "doingBusinessAs1": "Apple Inc.",
+    "doingBusinessAs2": "Apple Computers Inc.",
+    "product": "MPP",
+    "advisorCode": "4FA",
+    "contact": {
+      "contactInformation" : {
+       "emailAddress": "jayson.tang@gmail.com",
+       "homePhone":"437 911 9019",
+       "mobilePhone": "642 345 3911"
+
+      },
+      "homeAddress": {
+        "streetAddress": "41 bay street West",
+        "unitType": "Floor",
+        "unit": "12",
+        "city": "Toronto",
+        "country": "Canada",
+        "additionalAddress": "",
+        "province": "Ontario",
+        "postalcode": "L6R2X9"
+      }
+
+    },
+
+    "sinAndCitizenship":{
+
+
+
+    }
+    "entityDetails": {
+      "business":"2222",
+      "yearOfIncorporation": "1947",
+      "numberOfEmployees": "3423",
+      "publicOrPrivateCorp":"Public",
+      "gurantorExemption":true,
+      "activeOrPassive":"Passive"
+    },
+    "countriesOfBusiness": {
+      "incorporated": "Canada",
+      "province": "Ontario",
+      "operations": ["Canada","USA","Mexico","Argentina","Brazil"],
+      "suppliers": ["Canada","USA"],
+      "clients": ["USA","Canada","France","United Kingdom"]
+    },
+    "revenueAndNetWorth": {
+      "annualGrossRevenue": "Under $25,000",
+      "netLiquidAssets": "6472",
+      "netFixedAssets": "3423"
+    },
+    "relationshipDisclosures": {
+      "deemedInsider": true,
+      "deemedCompanyName":["Google Inc","Apple INC"],
+      "controlPerson": true,
+      "companyName":["Google Inc","Apple INC"],
+     "othersWithFinancialInterest": true,
+      "scotiaMcLeodAccounts": true,
+      "accountswithotherfirms": true
+    },
+    "taxCountries": {
+      "otherTaxCountries": true,
+      "otherTaxCountriesName": "Mexico",
+      "tin":"999222"
+    },
+    "paymentInstruction":{
+      "transferFixedMonthlyAmount": true,
+      "monthlyFixedAmount": "1234"
+    },
+    "accountFeatures":{
+      "margin":true,
+      "income":false,
+      "short":true,
+      "options":true,
+      "optionLevels": "Level 1 - Purchase Puts and Calls"
+    },
+    "bankingAccounts":{
+      "currency": "US",
+      "institution": "Royal Bank of Canada",
+      "transit": "97988",
+      "account": "987654321234",
+      "accountType":"Savings"
+    },
+    "mailingAddress":{
+      "reason": "Testing Wco-2073",
+      "mailingStreetAddress": "40 King St W",
+      "mailingUnitType": "Floor",
+      "mailingUnit": "12",
+      "mailingCity": "Toronto",
+      "mailingCountry": "Canada",
+      "mailingAdditionalAddress": "near finch & younge",
+      "mailingProvince": "Ontario",
+      "mailingPostalcode": "M5H4A9",
+      "mailingAttentionTo":"Ben Pablo",
+      "mailingExpiryDate":"12/12/2019"
+    }
+  }
+}

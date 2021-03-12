@@ -1,0 +1,51 @@
+{
+  "Data": {
+    "firstName": "Jayson",
+    "lasttName": "Tang",
+    "newAccountSetUp": {
+      "householdName": "Tang's Family",
+      "codes": {
+        "lrmCode": "65411",
+        "registerantCode": "7593121-1"
+      }
+    },
+    "personalInformation": {
+      "title": "Mr",
+      "Initial": "S",
+      "dateOfBirtDate": "19",
+      "dateOfBirthMonth": "March",
+      "dateOfBirthYear": "1956",
+      "Language": "English"
+    },
+    "contact": {
+      "contactInformation": {
+        "emailAddress": "jayson.tang@gmail.com",
+        "homePhone": "437 911 9019",
+        "mobilePhone": "642 345 3911"
+      },
+      "homeAddress": {
+        "streetAddress": "41 bay street West",
+        "unitType": "Floor",
+        "unit": "12",
+        "city": "Toronto",
+        "country": "Canada",
+        "additionalAddress": "",
+        "province": "Ontario",
+        "postalcode": "L6R2X9"
+      }
+    },
+    "sinAndCitizenship": {
+      "citizenship": "Canadian",
+      "areYouAUsPersona": "No",
+      "isTheClientUSRenouncedCitized": "No",
+      "areYourequiredToFileATaxReturnInAnyCountryOtherThanCanadaOrTheUs": "No"
+    },
+    "employment": {
+      "staus": "employed",
+      "employerName": "Bricks Inc.",
+      "employedFor": "2 years - 5 years",
+      "industry": "Finance,Banking and Inusrance",
+      "occupation": "Finance Analyst"
+    }
+  }
+}
